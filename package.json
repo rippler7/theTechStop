@@ -1,0 +1,19 @@
+{
+  "name": "the_tech_stop",
+  "version": "1.0.0",
+  "description": "Demo on front end website using Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rippler7/theTechStop.git"
+  },
+  "author": "Jeremy Ancog",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rippler7/theTechStop/issues"
+  },
+  "homepage": "https://github.com/rippler7/theTechStop#readme"
+}
